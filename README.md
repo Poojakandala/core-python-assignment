@@ -1,5 +1,5 @@
 # core-python-assignment
-1. E-Commerce Cart System** 
+*1. E-Commerce Cart System** 
 
 Scenario:
 
@@ -21,7 +21,7 @@ Total Price: 54000
 
 
 
-2. Restaurant Menu Management
+*2. Restaurant Menu Management
 
 Scenario:
 
@@ -51,7 +51,7 @@ Availability: "Pizza is available"
 
 
 
-3. Classroom Performance Tracker
+*3. Classroom Performance Tracker
 
 Scenario:A teacher wants to track student performance. Write a program to calculate the **average marks** of students and identify the **top performer**.
 
@@ -75,7 +75,7 @@ Top Performer: "Alice"
 
  
 
-4. Movie Ticket Booking System
+**4. Movie Ticket Booking System
 
 Scenario:
 
@@ -103,7 +103,7 @@ Available seats: [1, 4, 6, 8, 9, 10]
 
  
 
-5. Hospital Patient Management
+*5. Hospital Patient Management
 
 Scenario:
 
@@ -137,7 +137,7 @@ Patients with Flu: ["Alice", "Charlie"]
 
  
 
-6. Customer Feedback Analysis
+*6. Customer Feedback Analysis
 
 Scenario:
 
@@ -169,7 +169,7 @@ Positive Feedback: 62.5%
 
  
 
-7. Taxi Fare Calculation
+*7. Taxi Fare Calculation
 
 Scenario:
 
